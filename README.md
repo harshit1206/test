@@ -4,7 +4,7 @@
 
 # git checkout -b Harshit for new branch
 
-# git checkout -D harshit for delete
+# git branch -D harshit for delete
 
 # git branch
 
