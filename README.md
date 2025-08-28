@@ -9,3 +9,5 @@
 # git branch
 
 # git stash for deleteing the changes in present branch
+
+# git commit -m "commit msg" for adding msg in the file 
